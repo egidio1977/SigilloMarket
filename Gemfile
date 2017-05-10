@@ -15,6 +15,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'materialize-sass'
 gem 'coffee-script-source', '1.8.0'
+gem 'devise'
 
 group :development, :test do
   gem 'byebug', platform: :mri
