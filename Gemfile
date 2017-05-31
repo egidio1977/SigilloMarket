@@ -16,7 +16,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'materialize-sass'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
-
+gem 'bcrypt', platforms: :ruby
 group :development, :test do
   gem 'byebug', platform: :mri
 end
